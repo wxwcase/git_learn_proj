@@ -49,3 +49,4 @@ Other,Blood pressure artifact,SRO:BloodPressureArtifact,Unreliable blood pressur
 Other,Body temperature artifact,SRO:BodyTemperatureArtifact,Unreliable body temperature signal
 EpochLength,,30,
 EpochLength,,30,
+EpochLength,,30,
