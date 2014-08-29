@@ -48,3 +48,4 @@ Other,TcC02 artifact,SRO:TcCO2Artifact,Unreliable TcCO2 pressure signal (CO2 sat
 Other,Blood pressure artifact,SRO:BloodPressureArtifact,Unreliable blood pressure signal
 Other,Body temperature artifact,SRO:BodyTemperatureArtifact,Unreliable body temperature signal
 EpochLength,,30,
+EpochLength,,30,
