@@ -47,4 +47,3 @@ Other,EtCO2 artifact,SRO:EtCO2Artifact,Unreliable EtCO2 signal (CO2 measured dur
 Other,TcC02 artifact,SRO:TcCO2Artifact,Unreliable TcCO2 pressure signal (CO2 saturation measured at the skin surface)
 Other,Blood pressure artifact,SRO:BloodPressureArtifact,Unreliable blood pressure signal
 Other,Body temperature artifact,SRO:BodyTemperatureArtifact,Unreliable body temperature signal
-EpochLength,,30,
